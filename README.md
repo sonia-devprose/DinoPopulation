@@ -1,4 +1,4 @@
-# DinoPopulation
+# ParkWatch
 This project was inspired by Michael Crichton's iconic novel Jurassic Park, which masterfully blends science, technology, and adventure. The novel explores the thrilling idea of a dinosaur-filled park managed with cutting-edge technology, where every detail matters—from species tracking to containment. Captivated by the depth of Crichton’s world, I was inspired to create a Java-based dinosaur population management system. This project simulates the challenges of dynamically tracking species populations using object-oriented principles and scalable data structures. It aims to provide a glimpse into how such a system could function in a real-world scenario, while also being an engaging exercise in software design.
 ![dinosaurs](https://github.com/user-attachments/assets/66ff426c-7728-47c7-bc87-a122b3829802)
 
